@@ -1,7 +1,7 @@
 # AED
 Algoritmos y estructura de datos
-• Curso.
-• Año de cursada, y cuatrimestre si corresponde.
-• Legajo.
-• Apellido.
-• Nombre.
+• K1053.
+• 2026.
+• 234.034-3.
+• Mejía De la Gala.
+• Cristian.
