@@ -1,4 +1,4 @@
-  Qué: Hello World
+   Hello World
  * Breve descripción
  * Quiénes: Cristian Mejía De la Gala
  * Cuando: 21/04/2026
