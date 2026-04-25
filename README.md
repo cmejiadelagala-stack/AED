@@ -7,6 +7,4 @@
  
 • 234.034-3.
 
-• Mejía De la Gala.
-
-• Cristian.
+• Mejía De la Gala, Cristian.
