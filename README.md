@@ -1,10 +1,13 @@
 # AED
+
 • Algoritmos y estructura de datos
 
-• K1053  
+• Comisión: K1053  
 
-• 2026
+• Año: 2026
  
-• 234.034-3.
+• Legajo: 234.034-3.
 
-• Mejía De la Gala, Cristian.
+• Apellido: Mejía De la Gala
+
+• Nombre: Cristian.
